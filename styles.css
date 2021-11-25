@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap")
+  #navegador ul {
+  list-style-type: none;
+  text-align: left;
+}
+/*
+.container li {
+  display: inline;
+  text-align: center;
+  margin: 0 10px 0 0;
+}
+.container li a {
+  padding: 2px 7px 2px 7px;
+  color: #732c02;
+  background-color: #f2f2f2;
+  border: 1px solid #bf9a2a;
+  text-decoration: none;
+}
+cuando el cursor pasa sobre le elemento
+.container li a:hover {
+  background-color: #591902;
+  color: #ffffff;
+}
+*/
